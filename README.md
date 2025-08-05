@@ -1,5 +1,8 @@
-# Data-Visualizations
-A collection of interactive and customized data visualizations using the Matplotlib,Pandas, and Seaborn library in Python  
+# 🧠 Data Analysis 
 
-### 1) Line Plot
-![image](plot.png)
+This repository contains multiple independent data analysis projects, each in its own folder.
+
+## 🧰 Tools Used
+- Python
+- Jupyter Notebook
+- Pandas, NumPy, Matplotlib, Seaborn, etc.
